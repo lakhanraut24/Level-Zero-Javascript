@@ -5,7 +5,7 @@ console.log('Exercise 1')
 
 console.log('1.1')
 
-let myname = "Lakhan"
+let myname = 'Lakhan'
 
 console.log(myname)
 
